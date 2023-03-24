@@ -1,0 +1,2 @@
+
+proctype alea()
