@@ -5,7 +5,7 @@ proctype player(chan c){
     int n;
     do
         :: c?play,n 
-            ->      int i=1;
+            ->      int i=0;
                     if 
                     :: n==2 -> 
                         if 
@@ -18,6 +18,8 @@ proctype player(chan c){
                         :: i=2;
                         :: i=3;
                         fi;
+                    :: n==1 -> 
+                        i=1;
                     :: else -> 
                         skip;
                     fi;
