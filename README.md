@@ -38,3 +38,8 @@ promel-verif <model_name>
   * [Dijkstra semaphore](TP1/tp1ex2.pml)
   * [Loop in promela](TP1/tp1ex3.pml)
   * [Random numbers](TP1/tp1ex4.pml)
+  * [Match game](TP1/tp1ex5.pml)
+
+* [Annale 1](Annale1/Exemple_TP_noté_Promela_corrige.pdf)
+  * [Vending machine](Annale1/a1ex1.pml)
+  * [Dynamic role assignment](Annale1/a1ex2.pml)
